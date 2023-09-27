@@ -1,16 +1,23 @@
-### Hi there 👋
+Ola estudante!
 
-<!--
-**Maria1a20/Maria1a20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+O meu nome e Maria Clara.
 
-Here are some ideas to get you started:
+Eu tenho 16 anos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Eu estudo de manha.
+
+Eu gosto de ir na aula.
+
+Eu gosto de estudar pensamento computasiobal.
+
+O professsor passa conteudo bem legal pra agente aprender.
+
+Tem uns conteudos difilço de aprender ate agente pegar o geito.
+
+O noso profesor e legal.
+
+O nome dele e Diego Morais.
+
+
+
+
